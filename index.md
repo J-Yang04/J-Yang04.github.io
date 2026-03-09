@@ -4,5 +4,5 @@
 - **Role**: Software Developer
 - **Hobbies**:
     - Reading (Not that I have much time for that)
-    - Role-playing (Somehow, I find plenty of time for this)
+    - Tabletop Role-playing (Somehow, I find plenty of time for this)
     - Video Games (Primarily in the genre of "the world is ending, send four idiots")
